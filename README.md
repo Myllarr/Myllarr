@@ -1,6 +1,6 @@
 # Oi 👋, Eu sou Lucas Myllar
 
-🚀 **Full Stack Developer | JavaScript, HTML & CSS**  
+🚀 **Web Developer | JavaScript, HTML & CSS**  
 🇧🇷 Brazil
 
 
